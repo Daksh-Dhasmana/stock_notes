@@ -11,3 +11,7 @@
 - Think of it as the "true value" you actually own. It applies to everything from individual homes to massive corporations.
 - ![Not_Loading](image.png)
 - Here in above image, the total cost is 5 lac INR, in which you borrowed 1L INR, and thus your equity is 80% of business(5L-1L=4L)
+- NOTE: Borrowing is not equity!!!
+- Now the 80% of business is "Owner's Equity" or Net Equity, where
+    - Net Equity = Total Assets-Borrowing.
+- Here Borrowing can also be called as Liabilities(its like a responsilibity to pay back the principal amount+Interest)
