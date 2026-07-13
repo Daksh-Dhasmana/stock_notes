@@ -9,4 +9,4 @@ title: Basics
 - $$\text{Assets} = \text{Liabilities} + \text{Shareholders' Equity}$$
 - Asset: These are resources with economic value that the company controls to help generate revenue. They are usually listed in order of liquidity (how quickly they can be turned into cash):
 - Liabilities: These are the company's financial obligations to outside parties. Like assets, they are split by time
-- Shareholders' Equity (The net worth): Also known as net assets, this is the amount of money left over if a company sold all its assets and paid off all its debts. This money belongs to the owners (shareholders). It includes:
+- Shareholders' Equity (The net worth): Also known as net assets, this is the amount of money left over if a company sold all its assets and paid off all its debts. This money belongs to the owners (shareholders). 

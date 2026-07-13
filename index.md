@@ -1,6 +1,3 @@
----
-layout: default
-title: Home
----
+# Main Index
 
 - [Basics](./Basics.md)
