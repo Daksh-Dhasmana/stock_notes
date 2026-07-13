@@ -1,0 +1,6 @@
+title: Stock Notes
+description: Notes about stocks
+baseurl: ""
+url: ""
+theme: minima
+markdown: kramdown
